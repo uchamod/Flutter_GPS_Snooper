@@ -1,4 +1,4 @@
-# social_creater
+# GPS Snooper
 
 A new Flutter project.
 
